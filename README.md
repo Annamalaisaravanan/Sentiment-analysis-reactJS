@@ -1,3 +1,8 @@
+# Sentiment-analysis App
+It is a basic version of sentiment analysis using Reactjs.
+
+## You can see live [here](https://deepmatrix-sentiment-analysis.web.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
